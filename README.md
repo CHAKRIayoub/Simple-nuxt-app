@@ -1,4 +1,4 @@
-# myfnuxtapp
+# Simple nuxt app
 
 > Nuxt.js project
 
